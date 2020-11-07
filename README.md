@@ -1,20 +1,20 @@
-AlgoRepo
+# AlgoRepo
 
 ========
 
-implementations of standard algorithms and data structures
+## Implementations of standard algorithms and data structures
 
-###Issues
+### Issues
 
 Feel free to submit issues and enhancement requests.
 
-###Contributing
+### Contributing
 
 Please follow the "fork-and-pull" Git workflow.
 
-  1.  Fork the repo on GitHub
-  2.  Commit changes to a branch in your fork
-  3.  Pull request "upstream" with your changes
-  4.  Merge changes in to "upstream" repo
+  * Fork the repo on GitHub
+  * Commit changes to a branch in your fork
+  * Pull request "upstream" with your changes
+  * Merge changes in to "upstream" repo
 
 NOTE: Be sure to merge the latest from "upstream" before making a pull request!
